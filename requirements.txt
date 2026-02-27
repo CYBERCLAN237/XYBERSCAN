@@ -1,0 +1,7 @@
+# Bibliothèques fondamentales pour XYBERSCAN (Phase 1)
+requests==2.31.0      # Gestion des requêtes HTTP et analyse des headers [cite: 32]
+colorama==0.4.6       # Affichage coloré dans le terminal pour les rapports [cite: 34]
+urllib3==2.0.7        # Gestion avancée des connexions HTTP [cite: 35]
+
+# Note : ssl et socket sont inclus nativement dans la bibliothèque standard de Python.
+# Il n'est pas nécessaire de les lister ici[cite: 33].
